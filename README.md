@@ -4,5 +4,6 @@
 * Load resource file: *.resx - value column will be translated
 * click Translate
 
-// Todo: add open folder
-// Todo: add language selection/detection
+## Todo: 
+* Add open folder
+* Add language selection/detection
